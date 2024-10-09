@@ -1,5 +1,7 @@
 # Say goodbye 9 to 5 Job
 
+## Still 9 to 5 Jobs
+
 ### Telecom
 1. [AT&T](https://www.linkedin.com/company/att/jobs/)
 2. [Singtel-NCS-Optus](https://www.linkedin.com/company/singtel/jobs/)
@@ -21,9 +23,15 @@
 18. [Tel](https://www.linkedin.com/company/teltelecomunicacoes/jobs/)
 19. [V.tal](https://www.linkedin.com/company/v-tal/jobs/)
 20. [Rogers Communications](https://www.linkedin.com/company/rogers-communications/jobs/)
-21. 
+21. [Maroc Telecom](https://www.linkedin.com/company/maroc-telecom/)
 
 [ALL](https://www.linkedin.com/jobs/search/?currentJobId=3978432427&f_C=232888%2C1392%2C5334%2C2715%2C145556%2C166836%2C4206%2C2103%2C9251921%2C1217%2C166151%2C79780648%2C10855353%2C1052%2C163639%2C165065%2C37023391%2C1045416%2C165516%2C165591%2C18537239%2C1914%2C33599%2C3721%2C639452&f_E=4%2C5%2C6&f_JT=F%2CC&f_TPR=r604800&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R)
+
+
+### IT
+1. [Atos](https://www.linkedin.com/company/atos/)
+2. [KNOT](https://www.linkedin.com/company/knot-solutions-pvt-ltd/posts/?feedView=all)
+
 
 [ALL IT](https://www.linkedin.com/jobs/search/?currentJobId=3964463897&f_E=4%2C5%2C6&f_EA=true&f_F=it%2Cbd%2Cothr%2Ccnsl&f_JT=C&f_T=9%2C25201%2C113%2C39%2C25170%2C2732%2C115&f_TPR=r604800&f_WT=2&geoId=92000000&location=Worldwide&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=R)
 
@@ -32,7 +40,7 @@ https://devsdata.com/careers/job/fullstack-developer-java-react-302920/
 https://devsdata.com/careers/
 
 
-### Nearshore - Offshore
+## Nearshore - Offshore
 1. [Avenuecode](https://www.avenuecode.com/)
 2. [BairesDev](https://www.bairesdev.com/)
 3. [Andela](https://www.andela.com/)
@@ -297,3 +305,59 @@ https://devsdata.com/careers/
     - Elevate your social media profile with PFP Maker for a professional look.
 
 
+## 
+
+
+1. FlexJobs (flexjobs.com)
+
+2. Remote.co (remote.co)
+
+3. We Work Remotely (weworkremotely.com)
+
+4. Remote OK (remoteok.com)
+
+5. AngelList (angel.co)
+
+6. LinkedIn (linkedin.com)
+
+7. Upwork (upwork.com)
+
+8. Freelancer (freelancer.com)
+
+9. Working Nomads (workingnomads.com)
+
+10. SimplyHired (simplyhired.com)
+
+11. Jobspresso (jobspresso.co)
+
+12. Virtual Vocations (virtualvocations.com)
+
+13. Stack Overflow Jobs (stackoverflow.com/jobs)
+
+14. Outsourcely (outsourcely.com)
+
+15. Toptal (toptal.com)
+
+16. Skip The Drive (skipthechive.com)
+
+17. NoDesk (nodesk.co)
+
+18. RemoteHabits (remotehabits.com)
+
+19. Remotive (remotive.com)
+
+20. Remote4Me (remote4me.com)
+
+2. Pangian (pangian.com)
+
+22. Remotees (remotees.com)
+
+. Pangian (pangian.com)
+
+22. Remotees (remotees.com)
+
+23. Europe Remotely (europeremotely.com)
+
+24. Remote OK Europe (remoteok.io/europe)
+
+25. Remote of Asia (remoteok.io/asia)

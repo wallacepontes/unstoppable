@@ -1,4 +1,34 @@
-# Visto EB2
+# Visa EB2
+
+## Table of Contents
+- [Visa EB2](#visa-eb2)
+  - [Table of Contents](#table-of-contents)
+  - [EB2 NIW](#eb2-niw)
+    - [1. Proposed Endeavor](#1-proposed-endeavor)
+    - [2. Professional Plan](#2-professional-plan)
+    - [3. Business Plan](#3-business-plan)
+    - [Key Points for EB2-NIW Application:](#key-points-for-eb2-niw-application)
+    - [Additional Tips:](#additional-tips)
+  - [EB2 NIW, what is the course-by-course?](#eb2-niw-what-is-the-course-by-course)
+  - [will I need a professional recommendation letter?](#will-i-need-a-professional-recommendation-letter)
+  - [And the cover letter also, right?](#and-the-cover-letter-also-right)
+  - [a sworn translation of all documents is required. right?](#a-sworn-translation-of-all-documents-is-required-right)
+  - [EB2 NIW is the from I140, right?](#eb2-niw-is-the-from-i140-right)
+  - [work permission F765 is required, right?](#work-permission-f765-is-required-right)
+  - [I also need to take biometrics, right?](#i-also-need-to-take-biometrics-right)
+  - [How to avoid having your request denied because the request was based on special circumstances?](#how-to-avoid-having-your-request-denied-because-the-request-was-based-on-special-circumstances)
+  - [Premium Processing](#premium-processing)
+  - [EB-1](#eb-1)
+    - [Key Points about EB-1 Visa:](#key-points-about-eb-1-visa)
+  - [L1](#l1)
+    - [Key Features of L-1 Visa:](#key-features-of-l-1-visa)
+  - [Green card via US citizen brother](#green-card-via-us-citizen-brother)
+    - [Eligibility:](#eligibility)
+    - [Process:](#process)
+    - [Timeline and Considerations:](#timeline-and-considerations)
+  - [Ask about remote work and visa sponsorship](#ask-about-remote-work-and-visa-sponsorship)
+  - [Videos](#videos)
+  - [References](#references)
 
 ## EB2 NIW
 
@@ -378,6 +408,14 @@ Obtaining a green card through a U.S. citizen sibling falls under the family-bas
 
 If you're considering this route for obtaining a green card, staying informed about current visa availability through the Visa Bulletin and ensuring timely submission of all required documentation are crucial steps.
 
+## Ask about remote work and visa sponsorship
+
+To ask about remote work and visa sponsorship in a professional and clear manner, you can phrase your question like this:
+
+"Hi [Name],  
+I wanted to clarify a couple of points regarding the position. Is the role fully remote, or would it require relocation at some point? If relocation is required, does the company provide visa sponsorship to support the process? I’d like to ensure I understand the logistics before we move forward."
+
+This way, you’re direct, respectful, and show you’re being proactive about potential relocation or sponsorship requirements.
 
 ## Videos
  * [Aula Completa sobre EB-2 NIW](https://www.youtube.com/watch?v=0sCpARbiHCg)

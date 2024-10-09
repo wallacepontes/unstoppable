@@ -1,5 +1,20 @@
 # Dropshipping
 
+## Table of Contents
+- [Dropshipping](#dropshipping)
+	- [Table of Contents](#table-of-contents)
+	- [what is dropshipping?](#what-is-dropshipping)
+		- [Benefits of Dropshipping](#benefits-of-dropshipping)
+		- [Challenges of Dropshipping](#challenges-of-dropshipping)
+		- [Steps to Start a Dropshipping Business](#steps-to-start-a-dropshipping-business)
+	- [What is DNVB?](#what-is-dnvb)
+		- [Key Characteristics of DNVBs](#key-characteristics-of-dnvbs)
+		- [Examples of DNVBs](#examples-of-dnvbs)
+		- [Advantages of DNVBs](#advantages-of-dnvbs)
+		- [Challenges of DNVBs](#challenges-of-dnvbs)
+	- [Videos](#videos)
+	- [References](#references)
+
 ## what is dropshipping?
 
 Dropshipping is a retail fulfillment method where a store doesn't keep the products it sells in stock. Instead, when a store sells a product, it purchases the item from a third party and has it shipped directly to the customer. As a result, the seller doesn't have to handle the product directly. Here’s how it works:
