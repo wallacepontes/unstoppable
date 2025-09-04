@@ -376,7 +376,7 @@ Automation and scalability are crucial to be run with minimal maintenance, can y
 
    - **Database Scalability:** Start with a database that can scale easily. **PostgreSQL** or **MongoDB** are popular choices, offering options like horizontal scaling (sharding) and read replicas, which help manage growing data and user numbers.
 
-   - **Multi-Tenancy:** Designing your SaaS as a **multi-tenant** application means that a single instance of your software can serve multiple customers (tenants). This is crucial for scalability because:
+   - **Multi-Tenancy:** Designing your SaaS as a **	** application means that a single instance of your software can serve multiple customers (tenants). This is crucial for scalability because:
      - **Resource Efficiency:** You can serve many customers with a single instance, reducing the need for separate deployments.
      - **Simplified Maintenance:** Updates and patches only need to be applied once, making maintenance easier.
      - **Cost Efficiency:** Sharing resources among tenants lowers costs compared to maintaining separate environments for each customer.
@@ -764,3 +764,7 @@ By prioritizing automation and leveraging AI, Pieter Levels has created a sustai
 
  * [Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440](https://www.youtube.com/watch?v=oFtjKbXKqbg)
 	> [<img src="https://img.youtube.com/vi/oFtjKbXKqbg/0.jpg" width="200">](https://www.youtube.com/watch?v=oFtjKbXKqbg "Pieter Levels (aka levelsio on X) is a self-taught developer and entrepreneur who has designed, programmed, launched over 40 startups, many of which are highly successful. by Lex Fridman 1,3M views 1 hour 15 minutes")
+
+ * [Replicate.com: Essa plataforma de IA é um tesouro escondido](https://www.youtube.com/watch?v=MGQZioOzZUc)
+	> [<img src="https://img.youtube.com/vi/MGQZioOzZUc/0.jpg" width="200">](https://www.youtube.com/watch?v=MGQZioOzZUc "Pieter Levels (aka levelsio on X) is a self-taught developer and entrepreneur who has designed, programmed, launched over 40 startups, many of which are highly successful. by Lex Fridman 1,3M views 1 hour 15 minutes")
+

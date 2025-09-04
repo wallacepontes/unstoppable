@@ -24,8 +24,11 @@
 19. [V.tal](https://www.linkedin.com/company/v-tal/jobs/)
 20. [Rogers Communications](https://www.linkedin.com/company/rogers-communications/jobs/)
 21. [Maroc Telecom](https://www.linkedin.com/company/maroc-telecom/)
+22. [Telecom Argentina](https://www.linkedin.com/company/telecom-argentina/)
 
-[ALL](https://www.linkedin.com/jobs/search/?currentJobId=3978432427&f_C=232888%2C1392%2C5334%2C2715%2C145556%2C166836%2C4206%2C2103%2C9251921%2C1217%2C166151%2C79780648%2C10855353%2C1052%2C163639%2C165065%2C37023391%2C1045416%2C165516%2C165591%2C18537239%2C1914%2C33599%2C3721%2C639452&f_E=4%2C5%2C6&f_JT=F%2CC&f_TPR=r604800&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R)
+[ALL](https://www.linkedin.com/jobs/search/?currentJobId=4266059206&f_C=209495%2C1392%2C5334%2C4206%2C145556%2C1052%2C165065%2C9251921%2C2103%2C79780648%2C166151%2C163639%2C166836%2C33599%2C37023391%2C1045416%2C10855353%2C1217%2C165516%2C165591%2C18537239%2C1914%2C232888%2C2715%2C3721%2C639452&f_E=4%2C5%2C6&f_JT=F%2CC&f_TPR=r604800&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true)
+
+[H1-B](https://www.linkedin.com/jobs/search/?currentJobId=4279768769&f_C=12044%2C33246798%2C1481%2C15191764%2C3877937%2C586414%2C7846%2C4589043&f_E=4&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER)
 
 
 ### IT
