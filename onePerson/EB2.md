@@ -438,7 +438,21 @@ This way, you’re direct, respectful, and show you’re being proactive about p
 	> [<img src="https://img.youtube.com/vi/OA-tPxDLVf0/0.jpg" width="200">](https://www.youtube.com/watch?v=OA-tPxDLVf0 "Aula Completa 47K views 32 minutes, 54 seconds")
  * [EB-2 NIW (Green card) - Apliquei sozinha](https://www.youtube.com/watch?v=shGU8XUUUG0)
 	> [<img src="https://img.youtube.com/vi/shGU8XUUUG0/0.jpg" width="200">](https://www.youtube.com/watch?v=shGU8XUUUG0 "Aula Completa 47K views 32 minutes, 54 seconds")
-
-
+ * [COMO ELE TIROU O VISTO EB2-NIW SEM AJUDA DE ADVOGADOS?](https://www.youtube.com/watch?v=I-Y_9igCHPc)
+	> [<img src="https://img.youtube.com/vi/I-Y_9igCHPc/0.jpg" width="200">](https://www.youtube.com/watch?v=I-Y_9igCHPc "Descubra como ele tirou o visto eb2-niw sem ter ajuda de advogados! 138K views 26 minutes, 51 seconds")
+ * [EB2 NIW (GREEN CARD) - Apliquei sozinha!](https://www.youtube.com/watch?v=I-9ivltitVRZE)
+	> [<img src="https://img.youtube.com/vi/9ivltitVRZE/0.jpg" width="200">](https://www.youtube.com/watch?v=9ivltitVRZE "Como fazer o processo sem gastos de advogados, via processo consular! 70K views 32 minutes, 53 seconds")
+ * [EB2 NIW (GREEN CARD) - Apliquei sozinha!](https://www.youtube.com/watch?v=BwLOSLaaWao)
+	> [<img src="https://img.youtube.com/vi/BwLOSLaaWao/0.jpg" width="200">](https://www.youtube.com/watch?v=BwLOSLaaWao "Como fazer o processo sem gastos de advogados, via processo consular! 70K views 32 minutes, 53 seconds")
+ * [Usou IA no EB-2 NIW e foi Aprovado sem RFE](https://www.youtube.com/watch?v=emsVYm_zZhA)
+	> [<img src="https://img.youtube.com/vi/emsVYm_zZhA/0.jpg" width="200">](https://www.youtube.com/watch?v=emsVYm_zZhA "O LordsCast é uma experiência sem pretensão nenhuma onde faço um bate-papo com pessoas que estão envolvidos no universo de imigração para os Estados Unidos. 5K views 1 hour 21 minutes, 45 seconds")
+ * [Visto EB2-NIW (Green Card) Apliquei Sozinha!| COMO EU FIZ](https://www.youtube.com/watch?v=s7YJHKchnVI)
+	> [<img src="https://img.youtube.com/vi/s7YJHKchnVI/0.jpg" width="200">](https://www.youtube.com/watch?v=s7YJHKchnVI "O LordsCast é uma experiência sem pretensão nenhuma onde faço um bate-papo com pessoas que estão envolvidos no universo de imigração para os Estados Unidos. 5K views 1 hour 21 minutes, 45 seconds")
+ * [Como fazer SOZINHO seu VISTO EB2-NIW (Green Card)/ Parte 1 #01](https://www.youtube.com/watch?v=QVEJeVX8SUI)
+	> [<img src="https://img.youtube.com/vi/QVEJeVX8SUI/0.jpg" width="200">](https://www.youtube.com/watch?v=QVEJeVX8SUI "Neste vídeo eu explico o que é o EB2-NIW. 5K views 1 hour 21 minutes, 45 seconds")
+ * [Como montar seu pedido EB2-NIW para tentar o GREEN CARD.](https://www.youtube.com/watch?v=dz-GvgysAUo)
+	> [<img src="https://img.youtube.com/vi/dz-GvgysAUo/0.jpg" width="200">](https://www.youtube.com/watch?v=dz-GvgysAUo "O grande receio de quem pensa em aplicar por conta própria para o EB2-NIW é como fazer, quais documentos necessários, como providenciar, como preencher os formulários, pra quem enviar, etc. 5K views 1 hour 21 minutes, 45 seconds")
 ## References
+1. https://www.youtube.com/playlist?list=PL0pRq21PrRnqKozUISyCXji1afIk4Ogeq
+
 
