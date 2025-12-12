@@ -1,5 +1,12 @@
 # KPIs
 
+## Table of Contents
+
+- [KPIs](#kpis)
+  - [Table of Contents](#table-of-contents)
+  - [Do you think this shift would align with the projects you're working on, especially in terms of keeping your teams or stakeholders more engaged?](#do-you-think-this-shift-would-align-with-the-projects-youre-working-on-especially-in-terms-of-keeping-your-teams-or-stakeholders-more-engaged)
+  - [Balance efficiency with effectiveness](#balance-efficiency-with-effectiveness)
+
 I think reframing KPIs from "Key Performance Indicators" to something like "Keep People Involved/Informed/Interested/Inspired" adds a human-centric approach to performance measurement. It shifts the focus from pure metrics to engagement and motivation, making it more about the people and less about rigid numbers.
 
 This perspective can foster a more inclusive work culture, encouraging ongoing involvement, transparency, and enthusiasm. It’s also a reminder that performance is not just about outcomes, but about ensuring that the people driving those outcomes feel connected to the mission and goals.

@@ -1,5 +1,20 @@
 # Effective accelerationism
 
+## Table of Contents
+- [Effective accelerationism](#effective-accelerationism)
+  - [Table of Contents](#table-of-contents)
+  - [effective kpi related](#effective-kpi-related)
+    - [Business and Financial KPIs](#business-and-financial-kpis)
+    - [Sales and Marketing KPIs](#sales-and-marketing-kpis)
+    - [Operational KPIs](#operational-kpis)
+    - [Customer Service KPIs](#customer-service-kpis)
+    - [Human Resources KPIs](#human-resources-kpis)
+    - [IT and Development KPIs](#it-and-development-kpis)
+  - [KPIs categorized into efficiency, effectiveness, and outcome indicators](#kpis-categorized-into-efficiency-effectiveness-and-outcome-indicators)
+    - [Efficiency Indicators](#efficiency-indicators)
+    - [Effectiveness Indicators](#effectiveness-indicators)
+    - [Outcome Indicators](#outcome-indicators)
+
 Effective accelerationism, or e/acc, refers to a concept within the broader context of accelerationism, which is a theoretical and political movement that advocates for the acceleration of technological and social change to bring about a desired future. Effective accelerationism focuses on strategically accelerating technological and economic developments to achieve specific goals, often related to addressing existential risks, advancing human potential, or navigating transformative changes in society.
 
 This concept intersects with effective altruism in that it emphasizes using evidence and reason to determine the best ways to accelerate beneficial outcomes, rather than simply advocating for rapid change without considering the consequences or effectiveness of the methods used. Effective accelerationism seeks to ensure that the accelerated progress is directed towards maximizing positive impact and minimizing potential harms.

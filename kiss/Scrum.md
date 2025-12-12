@@ -1,5 +1,13 @@
 # Scrum
 
+## Table of Contents
+
+- [Scrum](#scrum)
+  - [Table of Contents](#table-of-contents)
+  - [Scrum is a cancer.](#scrum-is-a-cancer)
+    - [few points to consider](#few-points-to-consider)
+  - [eXtreme Go Horse (XGH)](#extreme-go-horse-xgh)
+
 ## Scrum is a cancer.
 
 I've been writing software for 25 years, and nothing renders a software team useless like Scrum does.
